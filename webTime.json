@@ -1,0 +1,342 @@
+[
+  [
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "reload page",
+      "actionTime": "28455087 m si 57 s",
+      "allTime": "0 m si 24 s",
+      "element": "restartare pagina SIAAMP",
+      "endTime": "7 feb. 2024, 13:27:56"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#appMenuForm\\:tabMenuModules > ul > li:nth-child(1)",
+      "actionTime": "0 m si 3 s",
+      "allTime": "0 m si 27 s",
+      "element": "Modul Notificari",
+      "endTime": "7 feb. 2024, 13:27:59"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#appMenuForm\\:tabMenuModules > ul > li:nth-child(2)",
+      "actionTime": "0 m si 7 s",
+      "allTime": "0 m si 34 s",
+      "element": "Modul Receptie",
+      "endTime": "7 feb. 2024, 13:28:06"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": ".ui-menu-list > li:nth-child(2)",
+      "actionTime": "0 m si 4 s",
+      "allTime": "0 m si 38 s",
+      "element": "Meniu Receptie pe saptamana",
+      "endTime": "7 feb. 2024, 13:28:10"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": ".ui-selectonemenu-items-wrapper > ul  >li[data-label=\"Toți pacienții\"]",
+      "actionTime": "0 m si 4 s",
+      "allTime": "0 m si 42 s",
+      "element": "Selecteaza Cauta in Toti Pacientii",
+      "endTime": "7 feb. 2024, 13:28:14"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:searchFormPatient_content > table > tbody > tr:nth-child(2) > td:nth-child(2) >input",
+      "actionTime": "0 m si 0 s",
+      "allTime": "0 m si 43 s",
+      "element": "Introduce IDNP",
+      "endTime": "7 feb. 2024, 13:28:15"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:patientSearch",
+      "actionTime": "0 m si 13 s",
+      "allTime": "0 m si 55 s",
+      "element": "Buton cauta persoana dupa IDNP",
+      "endTime": "7 feb. 2024, 13:28:27"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:searchResultId_data  > tr > td:nth-child(1) > button",
+      "actionTime": "0 m si 8 s",
+      "allTime": "1 m si 3 s",
+      "element": "buton selecteaza primul pacient gasit",
+      "endTime": "7 feb. 2024, 13:28:35"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:searchFormPatient_content > table > tbody > tr:nth-child(6) > td >button",
+      "actionTime": "0 m si 9 s",
+      "allTime": "1 m si 12 s",
+      "element": "buton Programare pacient",
+      "endTime": "7 feb. 2024, 13:28:44"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorDialogID",
+      "actionTime": "0 m si 7 s",
+      "allTime": "1 m si 20 s",
+      "element": "Asteapta afisarea Ferestrei Medici",
+      "endTime": "7 feb. 2024, 13:28:52"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorFormSpecialization\\:doctorTableID_head >tr> th:nth-child(3) >input",
+      "actionTime": "0 m si 3 s",
+      "allTime": "1 m si 23 s",
+      "element": "Asteapta cautarea medicului dupa criteriul Nume",
+      "endTime": "7 feb. 2024, 13:28:55"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorFormSpecialization\\:doctorTableID_data > tr:nth-child(1)> td:nth-child(1)",
+      "actionTime": "0 m si 5 s",
+      "allTime": "1 m si 28 s",
+      "element": "buton selecteaza primul medic din lista_afisarea programarii",
+      "endTime": "7 feb. 2024, 13:29:00"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:schedule_container > div > div > table > tbody > tr:nth-child(4) > td",
+      "actionTime": "0 m si 3 s",
+      "allTime": "1 m si 31 s",
+      "element": "selecteaza data in calendar",
+      "endTime": "7 feb. 2024, 13:29:03"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:calendarWeekDoctor_content > table:nth-child(1) > tbody > tr:nth-child(2) > td:nth-child(2) >a",
+      "actionTime": "0 m si 6 s",
+      "allTime": "1 m si 37 s",
+      "element": "selectare Ora si programare pacient",
+      "endTime": "7 feb. 2024, 13:29:09"
+    }
+  ],
+  [
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "reload page",
+      "actionTime": "28455087 m si 57 s",
+      "allTime": "0 m si 24 s",
+      "element": "restartare pagina SIAAMP",
+      "endTime": "7 feb. 2024, 13:27:56"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#appMenuForm\\:tabMenuModules > ul > li:nth-child(1)",
+      "actionTime": "0 m si 3 s",
+      "allTime": "0 m si 27 s",
+      "element": "Modul Notificari",
+      "endTime": "7 feb. 2024, 13:27:59"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#appMenuForm\\:tabMenuModules > ul > li:nth-child(2)",
+      "actionTime": "0 m si 7 s",
+      "allTime": "0 m si 34 s",
+      "element": "Modul Receptie",
+      "endTime": "7 feb. 2024, 13:28:06"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": ".ui-menu-list > li:nth-child(2)",
+      "actionTime": "0 m si 4 s",
+      "allTime": "0 m si 38 s",
+      "element": "Meniu Receptie pe saptamana",
+      "endTime": "7 feb. 2024, 13:28:10"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": ".ui-selectonemenu-items-wrapper > ul  >li[data-label=\"Toți pacienții\"]",
+      "actionTime": "0 m si 4 s",
+      "allTime": "0 m si 42 s",
+      "element": "Selecteaza Cauta in Toti Pacientii",
+      "endTime": "7 feb. 2024, 13:28:14"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:searchFormPatient_content > table > tbody > tr:nth-child(2) > td:nth-child(2) >input",
+      "actionTime": "0 m si 0 s",
+      "allTime": "0 m si 43 s",
+      "element": "Introduce IDNP",
+      "endTime": "7 feb. 2024, 13:28:15"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:patientSearch",
+      "actionTime": "0 m si 13 s",
+      "allTime": "0 m si 55 s",
+      "element": "Buton cauta persoana dupa IDNP",
+      "endTime": "7 feb. 2024, 13:28:27"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:searchResultId_data  > tr > td:nth-child(1) > button",
+      "actionTime": "0 m si 8 s",
+      "allTime": "1 m si 3 s",
+      "element": "buton selecteaza primul pacient gasit",
+      "endTime": "7 feb. 2024, 13:28:35"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:searchFormPatient_content > table > tbody > tr:nth-child(6) > td >button",
+      "actionTime": "0 m si 9 s",
+      "allTime": "1 m si 12 s",
+      "element": "buton Programare pacient",
+      "endTime": "7 feb. 2024, 13:28:44"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorDialogID",
+      "actionTime": "0 m si 7 s",
+      "allTime": "1 m si 20 s",
+      "element": "Asteapta afisarea Ferestrei Medici",
+      "endTime": "7 feb. 2024, 13:28:52"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorFormSpecialization\\:doctorTableID_head >tr> th:nth-child(3) >input",
+      "actionTime": "0 m si 3 s",
+      "allTime": "1 m si 23 s",
+      "element": "Asteapta cautarea medicului dupa criteriul Nume",
+      "endTime": "7 feb. 2024, 13:28:55"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorFormSpecialization\\:doctorTableID_data > tr:nth-child(1)> td:nth-child(1)",
+      "actionTime": "0 m si 5 s",
+      "allTime": "1 m si 28 s",
+      "element": "buton selecteaza primul medic din lista_afisarea programarii",
+      "endTime": "7 feb. 2024, 13:29:00"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:schedule_container > div > div > table > tbody > tr:nth-child(4) > td",
+      "actionTime": "0 m si 3 s",
+      "allTime": "1 m si 31 s",
+      "element": "selecteaza data in calendar",
+      "endTime": "7 feb. 2024, 13:29:03"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:27:32",
+      "querySelector": "#contentform\\:calendarWeekDoctor_content > table:nth-child(1) > tbody > tr:nth-child(2) > td:nth-child(2) >a",
+      "actionTime": "0 m si 6 s",
+      "allTime": "1 m si 37 s",
+      "element": "selectare Ora si programare pacient",
+      "endTime": "7 feb. 2024, 13:29:09"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "reload page",
+      "actionTime": "8 m si 43 s",
+      "allTime": "0 m si 20 s",
+      "element": "restartare pagina SIAAMP",
+      "endTime": "7 feb. 2024, 13:37:52"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#appMenuForm\\:tabMenuModules > ul > li:nth-child(1)",
+      "actionTime": "0 m si 4 s",
+      "allTime": "0 m si 25 s",
+      "element": "Modul Notificari",
+      "endTime": "7 feb. 2024, 13:37:56"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#appMenuForm\\:tabMenuModules > ul > li:nth-child(2)",
+      "actionTime": "0 m si 7 s",
+      "allTime": "0 m si 32 s",
+      "element": "Modul Receptie",
+      "endTime": "7 feb. 2024, 13:38:03"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": ".ui-menu-list > li:nth-child(2)",
+      "actionTime": "0 m si 4 s",
+      "allTime": "0 m si 35 s",
+      "element": "Meniu Receptie pe saptamana",
+      "endTime": "7 feb. 2024, 13:38:07"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": ".ui-selectonemenu-items-wrapper > ul  >li[data-label=\"Toți pacienții\"]",
+      "actionTime": "0 m si 3 s",
+      "allTime": "0 m si 38 s",
+      "element": "Selecteaza Cauta in Toti Pacientii",
+      "endTime": "7 feb. 2024, 13:38:10"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:searchFormPatient_content > table > tbody > tr:nth-child(2) > td:nth-child(2) >input",
+      "actionTime": "0 m si 0 s",
+      "allTime": "0 m si 38 s",
+      "element": "Introduce IDNP",
+      "endTime": "7 feb. 2024, 13:38:10"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:patientSearch",
+      "actionTime": "0 m si 2 s",
+      "allTime": "0 m si 40 s",
+      "element": "Buton cauta persoana dupa IDNP",
+      "endTime": "7 feb. 2024, 13:38:12"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:searchResultId_data  > tr > td:nth-child(1) > button",
+      "actionTime": "0 m si 1 s",
+      "allTime": "0 m si 41 s",
+      "element": "buton selecteaza primul pacient gasit",
+      "endTime": "7 feb. 2024, 13:38:13"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:searchFormPatient_content > table > tbody > tr:nth-child(6) > td >button",
+      "actionTime": "0 m si 3 s",
+      "allTime": "0 m si 45 s",
+      "element": "buton Programare pacient",
+      "endTime": "7 feb. 2024, 13:38:17"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorDialogID",
+      "actionTime": "0 m si 4 s",
+      "allTime": "0 m si 48 s",
+      "element": "Asteapta afisarea Ferestrei Medici",
+      "endTime": "7 feb. 2024, 13:38:20"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorFormSpecialization\\:doctorTableID_head >tr> th:nth-child(3) >input",
+      "actionTime": "0 m si 2 s",
+      "allTime": "0 m si 51 s",
+      "element": "Asteapta cautarea medicului dupa criteriul Nume",
+      "endTime": "7 feb. 2024, 13:38:23"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:docTableDoctor\\:doctorFormSpecialization\\:doctorTableID_data > tr:nth-child(1)> td:nth-child(1)",
+      "actionTime": "0 m si 3 s",
+      "allTime": "0 m si 54 s",
+      "element": "buton selecteaza primul medic din lista_afisarea programarii",
+      "endTime": "7 feb. 2024, 13:38:26"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:schedule_container > div > div > table > tbody > tr:nth-child(4) > td",
+      "actionTime": "0 m si 3 s",
+      "allTime": "0 m si 57 s",
+      "element": "selecteaza data in calendar",
+      "endTime": "7 feb. 2024, 13:38:29"
+    },
+    {
+      "startTime": "7 feb. 2024, 13:37:32",
+      "querySelector": "#contentform\\:calendarWeekDoctor_content > table:nth-child(1) > tbody > tr:nth-child(2) > td:nth-child(2) >a",
+      "actionTime": "0 m si 6 s",
+      "allTime": "1 m si 3 s",
+      "element": "selectare Ora si programare pacient",
+      "endTime": "7 feb. 2024, 13:38:35"
+    }
+  ]
+]
